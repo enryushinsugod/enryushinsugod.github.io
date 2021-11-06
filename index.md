@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 ![Link](url) 
 
-https://github.com/enryushinsugod/enryushinsugod.github.io/enryu.png
+![alt text](https://github.com/enryushinsugod/enryushinsugod.github.io/enryu.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
