@@ -25,9 +25,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![Link](url) 
-
-![alt text](https://github.com/enryushinsugod/enryushinsugod.github.io/enryu.png)
 ```
+
+![enryu](https://user-images.githubusercontent.com/93829063/140614062-cf2777fc-7ee6-4229-a43f-978214416132.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
